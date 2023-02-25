@@ -59,7 +59,7 @@
   <br>
   <h4>Animal Story</h4>
   <br>
-  <p>A man went to catch a tiger in the forest and saw the lion face to face with the lion, the man lost and the lion ate the man.</p> 
+  <p>একটি মেয়ে জঙ্গলে কুমির মারতে গেল এবং কুমিরের সাথে না পেরে মেয়েটা নিজে মারা গেল।</p> 
   </br>
   </main>
   </body>
